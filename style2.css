@@ -1,0 +1,50 @@
+body {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+
+.container {
+    width: 100%;
+    background-color: rgb(236, 234, 234);
+    height: 800px;
+    
+}
+h1 {
+    text-align: center;
+    border-bottom: 5px solid black;
+    margin: 0 200px;
+    padding-top: 10px;
+}
+
+ul {
+    font-size: 25px;
+    text-align: center;
+    padding-right: 35px;
+    list-style-type: none;
+
+}
+
+.tyt {
+    font-size: 40px;
+}
+
+
+a {
+    text-decoration: none;
+    color: blue;
+    font-size: 30px;
+    
+}
+
+footer {
+    height: 30px;
+    background-color: rgb(129, 126, 126);
+    margin-top: -25px;
+}
+
+img {
+    width: 800px;
+    padding-bottom: 35px;
+    
+}
